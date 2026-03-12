@@ -174,3 +174,8 @@ A working automation toolkit that demonstrates:
 - data validation
 - data cleaning
 - system integration
+
+
+> Small but important advice.
+>> Do not aim for perfection in this project. Aim for something that runs. Recruiters and engineers respect working systems far more than perfect plans.
+>> Software history is full of humble tools that started as someone automating a boring daily task. Those boring problems often turn into the most useful software in the room.
